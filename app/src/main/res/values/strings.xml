@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lucky!</string>
+    <string name="btn_string">Enviar</string>
+    <string name="et_hint">Número</string>
+    <string name="pn_text" />
+    <string name="btn_retry">Recomeçar</string>
+</resources>
